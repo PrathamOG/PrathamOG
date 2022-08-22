@@ -1,6 +1,6 @@
 <img src = "IMG_1536.jpg"/>
 
-⭐️ I am [Pratham Pathak](https://github.com/PrathamOG/), a 17 year old developer passionate about helping others by building impactful programs and software. Most of my projects consist of web-applications accessible to anyone on the Internet, but I have also looked into application development💻 , competitive programming 🥇, ethical hacking 🤺, and more. Visit [my site](https://prathampathak.me) to learn more!
+⭐️ I am [Pratham Pathak](https://github.com/PrathamOG/), a 17 year old developer passionate about helping others by building impactful programs and software. Most of my projects consist of web-applications accessible to anyone on the Internet, but I have also looked into application development💻 , competitive programming 🥇, ethical hacking 🤺, and more. Visit [my site](https://itspratham.me) to learn more!
 
 😄 I also love watching tv-shows, playing guitar, working out, and meeting new people!
 
